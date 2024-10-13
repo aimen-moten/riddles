@@ -1,4 +1,3 @@
-<img width="1440" alt="Screenshot 2024-10-13 at 3 51 26 PM" src="https://github.com/user-attachments/assets/72f695d9-7b9c-4679-ae6c-eed92e233d5e">
 # Riddles Quiz Webpage
 
 A simple Riddles Quiz webpage built with Vue 3 using Vue Forms. This interactive quiz contains riddles, various input types, and calculates the user's score upon submission.
