@@ -1,4 +1,4 @@
-
+<img width="1440" alt="Screenshot 2024-10-13 at 3 51 26 PM" src="https://github.com/user-attachments/assets/72f695d9-7b9c-4679-ae6c-eed92e233d5e">
 # Riddles Quiz Webpage
 
 A simple Riddles Quiz webpage built with Vue 3 using Vue Forms. This interactive quiz contains riddles, various input types, and calculates the user's score upon submission.
@@ -105,3 +105,8 @@ After setting up, run the project locally with:
 npm run dev
 ```
 View the webpage in your browser to begin the Riddles Quiz.
+
+---
+<img width="1440" alt="Screenshot 2024-10-13 at 3 51 26 PM" src="https://github.com/user-attachments/assets/051412d1-dd1d-4d8b-9dda-8856b24c572d">
+<img width="1440" alt="Screenshot 2024-10-13 at 3 51 27 PM" src="https://github.com/user-attachments/assets/96fd88b7-5a9d-42fd-a4ae-207927e1fc60">
+<img width="1440" alt="Screenshot 2024-10-13 at 3 51 32 PM" src="https://github.com/user-attachments/assets/5b56e63c-7762-4f51-ae16-dfed23a41445">
