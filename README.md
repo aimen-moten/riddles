@@ -1,4 +1,4 @@
-```markdown
+
 # Riddles Quiz Webpage
 
 A simple Riddles Quiz webpage built with Vue 3 using Vue Forms. This interactive quiz contains riddles, various input types, and calculates the user's score upon submission.
